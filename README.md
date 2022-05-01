@@ -4,8 +4,7 @@
 
 
  <p align="inline">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ludolua&theme=tokyonight" alt="a" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolua&layout=compact&theme=tokyonight" alt="b" />
+
 </p>
 <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

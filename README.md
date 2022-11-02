@@ -22,9 +22,8 @@
 
 <hr>
 <br>
-  <p>🖥 Atualmente trabalho na area de administração
+  <p>🖥 Atualmente trabalho na area de administração.
   <p>🌱 No momento estou focando em me especializar em front-end!</p>
-  <p>🙋‍♂️ @ludolua na maioria das redes sociais!</p>
   <p>🧑 Pronomes: Ele/Dele</p>	
 <br>
 <center>

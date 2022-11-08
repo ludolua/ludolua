@@ -23,7 +23,7 @@
 <hr>
 <br>
   <p>🖥 Atualmente trabalho na area de administração.
-  <p>🌱 No momento estou focando em me especializar em front-end!</p>
+  <p>🌱 No momento estou focando em aprender Python</p>
   <p>🧑 Pronomes: Ele/Dele</p>	
 <br>
 <center>

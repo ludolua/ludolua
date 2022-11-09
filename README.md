@@ -22,9 +22,10 @@
 
 <hr>
 <br>
-  <p>🖥 Atualmente trabalho na area de administração.
-  <p>🌱 No momento estou focando em aprender Python</p>
-  <p>🧑 Pronomes: Ele/Dele</p>	
+  - <p>🖥 Atualmente trabalho na area de administração.
+  - <p>🌱 No momento estou focando em aprender Python</p>
+  - <p> ✉ ludoluua@gmail.com
+  - <p>🧑 Pronomes: Ele/Dele</p>	
 <br>
 <center>
 <img src="https://user-images.githubusercontent.com/87837854/166164046-1238b8f9-e59c-4096-83b5-c777ec7cf562.gif" alt="animated">

@@ -12,9 +12,8 @@
 <p align="center">
   knowledge:
 </p>
-<div id="knowledge">
-  [![My Skills](https://skills.thijs.gg/icons?i=js,ts,angular,html,css,tailwind,figma,git)](https://skills.thijs.gg)
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,angular,html,css,tailwind,figma,git)](https://skills.thijs.gg)
+
 
 <center>
 <img src="https://user-images.githubusercontent.com/87837854/166164046-1238b8f9-e59c-4096-83b5-c777ec7cf562.gif" alt="animated">

@@ -10,10 +10,10 @@
   </samp>
 </p>
 <p align="center">
-  skills:
+  knowledge:
 </p>
-<div id="tec">
-  
+<div id="knowledge">
+  [![My Skills](https://skills.thijs.gg/icons?i=js,ts,angular,html,css,tailwind,figma,git)](https://skills.thijs.gg)
 </div>
 
 <center>

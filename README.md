@@ -13,7 +13,7 @@
   Tools of the trade
 </h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,figma,git,mongodb,lua)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,figma,git,mongodb,lua,linux,ps,ableton,ai)](https://skills.thijs.gg)
 
 <center>
 <img src="https://user-images.githubusercontent.com/87837854/166164046-1238b8f9-e59c-4096-83b5-c777ec7cf562.gif" alt="animated">

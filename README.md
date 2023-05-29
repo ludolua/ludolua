@@ -2,7 +2,7 @@
 
 <p align="left">
   <samp>
-    I am Ludo. Front-end developer based in Brazil 🌱
+    I am Ludo. Developer based in Brazil 🌱
     <br>
     Solving problems since day 1.
   </samp>

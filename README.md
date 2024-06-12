@@ -1,10 +1,9 @@
-# yo! 🤙
+# Hello!
 
 <p align="left">
   <samp>
-    I am Ludo. Data Professional based in Brazil 🌱
+    I am Luiz Data-driven professional based in Brazil 🌱
     <br>
-    Solving problems since day 1.
   </samp>
 </p>
 <p align="left">

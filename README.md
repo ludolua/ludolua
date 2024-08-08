@@ -1,13 +1,13 @@
 # Hello!
 
 <p align="left">
-  <samp>
+  <h1>
     I am Luiz 
-    <samp>
+    <h4>
     Data-driven professional based in Brazil 🌱
-    </samp>
+    </h4>
     <br>
-  </samp>
+  </h1>
 </p>
 <p align="left">
 </p>

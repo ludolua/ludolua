@@ -15,8 +15,6 @@
 <p align="left">
 </p>
 
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/7miPR7yflY4kvhVBfEyTzp?si=511c11c4444e484e)
-
 
 
 

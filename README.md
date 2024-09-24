@@ -1,5 +1,3 @@
-
-
 <p align="left">
   <h1>
    Hello!
@@ -7,7 +5,7 @@
      My name is Luiz. 
     </h4>
     <h4>
-      Data-driven professional based in Brazil 🌱
+      Data-driven python developer based in Brazil 🌱
     </h4>
     <br>
   </h1>
